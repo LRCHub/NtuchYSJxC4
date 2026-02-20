@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "分裂",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-20T17:27:23.999675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "分裂(live)",
+      "artist": "周杰伦",
+      "has_synced": false,
+      "path": "select/01_分裂(live)_周杰伦.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/02_分裂_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "分裂 (Live)",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/03_分裂_(Live)_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/04_分裂_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "分裂 Split",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/05_分裂_Split_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "分裂 Split",
+      "artist": "Chou, Jay",
+      "has_synced": true,
+      "path": "select/06_分裂_Split_Chou,_Jay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/07_分裂_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "孫盛希",
+      "has_synced": true,
+      "path": "select/08_分裂_孫盛希.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "フェイ・ウォン",
+      "has_synced": true,
+      "path": "select/09_分裂_フェイ・ウォン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Shi Shi",
+      "has_synced": true,
+      "path": "select/10_分裂_Shi_Shi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/11_分裂_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/12_分裂_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/13_分裂_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Faye Wong",
+      "has_synced": false,
+      "path": "select/14_分裂_Faye_Wong.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "周杰伦",
+      "has_synced": false,
+      "path": "select/15_分裂_周杰伦.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Chou, Jay",
+      "has_synced": true,
+      "path": "select/16_分裂_Chou,_Jay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "苏醒",
+      "has_synced": true,
+      "path": "select/17_分裂_苏醒.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "分裂",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/18_分裂_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "分裂 (Live)",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/19_分裂_(Live)_周杰伦.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "分裂",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_分裂_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
